@@ -19,3 +19,4 @@ def iprestamo():
     print("prestamo total",prestamot,"S/")
     print("prestmensual",mest,"S/")
     time.sleep(4)
+    print("hello")
