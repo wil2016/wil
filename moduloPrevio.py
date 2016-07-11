@@ -17,5 +17,5 @@ def iprestamo():
     prestamot=prestamo+(prestamo*cambio/100*meses)
     mest=prestamot/meses
     print("prestamo total",prestamot,"S/")
-    print("prestamo mensual",mest,"S/")
+    print("prestmensual",mest,"S/")
     time.sleep(4)
